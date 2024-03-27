@@ -66,7 +66,7 @@
 
 ---
 
-## Ссылка на репозиторий в GitLab : [ссылка](https://github.com/smabramov/devops-netology.git)
+## Ссылка на репозиторий в GitLab : [ссылка](http://192.168.0.137/smabramov/devops-netology.git)
 
 
 ## Ссылка на репозиторий в GitHub : [ссылка](https://github.com/smabramov/devops-netology.git)
